@@ -1,0 +1,6 @@
+Origin: Daniel's repo
+Label: Daniel's
+Version: 1.2
+Architectures: iphoneos-arm
+Components: main
+Description: Daniel's cydia repo, may even contain packages from other, just a repo.

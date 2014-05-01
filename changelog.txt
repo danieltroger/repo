@@ -1,0 +1,6 @@
+* added frp account for spydar007
+* fixed the htaccess (thx to seejy)
+* renamed the plain Packages file to Packages.txt
+* removed the ?f parameter, using request_uri now
+* yey! got the log script working!
+* showit.html now show's the logs nicer
