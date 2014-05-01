@@ -4,3 +4,4 @@
 * removed the ?f parameter, using request_uri now
 * yey! got the log script working!
 * showit.html now show's the logs nicer
+* the whole repo on github as a backup
